@@ -11,12 +11,12 @@ void main(){
     int l, w;
 
     // Prompt the user to enter the length of the rectangle
-    printf("Enter Length: ");
+    printf("Enter Length : ");
     // Read the length entered by the user and store it in variable 'l'
     scanf("%d", &l);
 
     // Prompt the user to enter the width of the rectangle
-    printf("Enter Width: ");
+    printf("Enter Width : ");
     // Read the width entered by the user and store it in variable 'w'
     scanf("%d", &w);
 

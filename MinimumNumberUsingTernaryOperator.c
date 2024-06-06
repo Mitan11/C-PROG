@@ -17,17 +17,17 @@ void main(){
     int num1, num2, num3;
     
     // Prompt the user to enter the first number
-    printf("Enter Number 1: ");
+    printf("Enter Number 1 : ");
     // Read the first number entered by the user and store it in 'num1'
     scanf("%d", &num1);
     
     // Prompt the user to enter the second number
-    printf("Enter Number 2: ");
+    printf("Enter Number 2 : ");
     // Read the second number entered by the user and store it in 'num2'
     scanf("%d", &num2);
     
     // Prompt the user to enter the third number
-    printf("Enter Number 3: ");
+    printf("Enter Number 3 : ");
     // Read the third number entered by the user and store it in 'num3'
     scanf("%d", &num3);
     

@@ -14,7 +14,7 @@ void main(){
     float r;
     
     // Prompt the user to enter the radius of the circle
-    printf("Enter The Radius of the Circle: ");
+    printf("Enter The Radius of the Circle : ");
     // Read the radius entered by the user and store it in variable 'r'
     scanf("%f", &r);
     

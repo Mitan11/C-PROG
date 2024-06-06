@@ -11,12 +11,12 @@ void main(){
     float area, b, h;
     
     // Prompt the user to enter the base of the triangle
-    printf("Enter the Base of the Triangle: ");
+    printf("Enter the Base of the Triangle : ");
     // Read the base entered by the user and store it in variable 'b'
     scanf("%f", &b);
     
     // Prompt the user to enter the height of the triangle
-    printf("Enter the Height of the Triangle: ");
+    printf("Enter the Height of the Triangle : ");
     // Read the height entered by the user and store it in variable 'h'
     scanf("%f", &h);
     

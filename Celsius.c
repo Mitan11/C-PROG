@@ -11,7 +11,7 @@ int main() {
     int fahrenheit, celsius;
 
     // Prompt the user to enter a temperature in Fahrenheit
-    printf("Enter temperature in Fahrenheit: ");
+    printf("Enter temperature in Fahrenheit : ");
 
     // Read the input from the user and store it in the fahrenheit variable
     scanf("%d", &fahrenheit);
@@ -20,7 +20,7 @@ int main() {
     celsius = (fahrenheit - 32) * 5 / 9;
 
     // Print the result to the console
-    printf("Temperature in Celsius: %d\n", celsius);
+    printf("Temperature in Celsius is %d\n", celsius);
 
     // Return 0 to indicate successful execution of the program
     return 0;

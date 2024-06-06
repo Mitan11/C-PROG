@@ -16,7 +16,7 @@ void main() {
     int num;
     
     // Prompt the user to enter a number
-    printf("Enter a number: ");
+    printf("Enter a number : ");
     // Read the number entered by the user and store it in variable 'num'
     scanf("%d", &num);
     

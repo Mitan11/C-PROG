@@ -15,24 +15,24 @@ Average mark: 83.33
 
 void main(){
     // Declare variables to store marks in three subjects and average marks
-    float math_marks, english_marks, science_marks, average_marks;
+    float mathMarks, englishMarks, scienceMarks, averageMarks;
     
     // Prompt the user to enter marks for each subject
     printf("Enter Maths Marks out of 100 : ");
-    // Read the marks entered by the user for Maths and store them in 'math_marks'
-    scanf("%f", &math_marks);
+    // Read the marks entered by the user for Maths and store them in 'mathMarks'
+    scanf("%f", &mathMarks);
     
     printf("Enter English Marks out of 100 : ");
-    // Read the marks entered by the user for English and store them in 'english_marks'
-    scanf("%f", &english_marks);
+    // Read the marks entered by the user for English and store them in 'englishMarks'
+    scanf("%f", &englishMarks);
     
     printf("Enter Science Marks out of 100 : ");
-    // Read the marks entered by the user for Science and store them in 'science_marks'
-    scanf("%f", &science_marks);
+    // Read the marks entered by the user for Science and store them in 'scienceMarks'
+    scanf("%f", &scienceMarks);
     
     // Calculate the average marks by adding the marks of all three subjects and dividing by 3
-    average_marks = (math_marks + english_marks + science_marks) / 3;
+    averageMarks = (mathMarks + englishMarks + scienceMarks) / 3;
     
     // Print the average marks
-    printf("Average Marks is %.2f", average_marks);
+    printf("Average Marks is %.2f", averageMarks);
 }

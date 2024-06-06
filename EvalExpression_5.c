@@ -9,12 +9,12 @@ void main(){
     int x, y, ans;
 
     // Prompt the user to enter the value of x
-    printf("Enter the value of x: ");
+    printf("Enter the value of x : ");
     // Read the value of x entered by the user and store it in variable 'x'
     scanf("%d", &x);
 
     // Prompt the user to enter the value of y
-    printf("Enter the value of y: ");
+    printf("Enter the value of y : ");
     // Read the value of y entered by the user and store it in variable 'y'
     scanf("%d", &y);
 

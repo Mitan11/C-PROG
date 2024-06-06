@@ -21,12 +21,12 @@ void main() {
     int a, b;
     
     // Prompt the user to enter the first number
-    printf("Enter Number 1: ");
+    printf("Enter Number 1 : ");
     // Read the first number entered by the user and store it in variable 'a'
     scanf("%d", &a);
     
     // Prompt the user to enter the second number
-    printf("Enter Number 2: ");
+    printf("Enter Number 2 : ");
     // Read the second number entered by the user and store it in variable 'b'
     scanf("%d", &b);
     

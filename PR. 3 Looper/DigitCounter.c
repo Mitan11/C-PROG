@@ -12,7 +12,7 @@ void main(){
     int num = 0, digit = 0, sum = 0; // Initialize variables: 'num' to store the user input, 'digit' to store each digit, and 'sum' to count the digits
     
     // Prompt the user to enter a number
-    printf("Enter a Number: ");
+    printf("Enter a Number : ");
     // Read the number entered by the user and store it in the 'num' variable
     scanf("%d", &num);
     
