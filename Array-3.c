@@ -46,7 +46,7 @@ void main() {
         scanf("%d", &b[i]); // Read the value for the current index of array B from the user
     }
 
-    printf("Array 'C' is: ");
+    printf("Array 'C' is ");
     // Loop to add corresponding elements of arrays A and B and store the result in array C
     for(int i = 0 ; i < n ; i++){
         c[i] = a[i] + b[i]; // Add the corresponding elements of arrays A and B and store the result in array C

@@ -27,7 +27,7 @@ void main() {
     printf("Enter array elements\n");
     // Loop to read elements of the array
     for(int i = 0; i < n; i++) {
-        printf("a[%d] = ", i); // Prompt the user to enter the value for the current index
+        printf("arr[%d] = ", i); // Prompt the user to enter the value for the current index
         scanf("%d", &arr[i]); // Read the value for the current index from the user
     }
 
