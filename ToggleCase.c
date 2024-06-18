@@ -15,7 +15,7 @@ void main() {
     int i = 0;
 
     printf("Enter any String : ");
-    fgets(str, sizeof(str), stdin);  // Read input with spaces using fgets
+    scanf("%s",&str);  // Read input and store in str 
 
     while(str[i] != '\0') {
         if(str[i] >= 'A' && str[i] <= 'Z') {
