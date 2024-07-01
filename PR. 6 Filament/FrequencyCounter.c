@@ -28,7 +28,7 @@ void main() {
 
     // Loop through each character of the string
     for(int i = 0; str[i] != '\0'; i++) {
-        int len = 0; // Variable to count frequency
+        int len = 0; // Variable to count frequency  
         // Compare the current character with every other character in the string
         for(int j = 0; str[j] != '\0'; j++) {
             if(str[i] == str[j]) {
